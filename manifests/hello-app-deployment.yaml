@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: hello-app
-        image: DOCKER_IMAGE
+        image: 002748133292.dkr.ecr.ap-south-1.amazonaws.com/rishi-ecr-private12:latest
         imagePullPolicy: Always
         ports:
         - containerPort: 8080
