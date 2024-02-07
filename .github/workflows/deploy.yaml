@@ -7,7 +7,7 @@ on:
 
 env:
   ECR_REPOSITORY: rishi-ecr-private12
-  EKS_CLUSTER_NAME: Rishi-eks
+  EKS_CLUSTER_NAME: Rishi-EKS
   AWS_REGION: ap-south-1
 
 jobs:
